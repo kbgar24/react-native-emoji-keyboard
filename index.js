@@ -3,7 +3,7 @@ import {Animated, StyleSheet, Dimensions} from 'react-native';
 import emojiSource from 'emoji-datasource';
 import PropTypes from 'prop-types';
 import _ from 'lodash';
-import ScrollableTabView from 'react-native-scrollable-tab-view';
+import ScrollableTabView from 'ptomasroos/react-native-scrollable-tab-view';
 import {
     isIphoneXorAbove,
     isAndroid,
